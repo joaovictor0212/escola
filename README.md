@@ -1,2 +1,2 @@
-# escola
+# Projeto escola
 projeto escola
